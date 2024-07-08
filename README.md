@@ -1,2 +1,2 @@
-# Scorechart
-Given a matrix of data and scores, provide a chart. 
+# Nvidian matters
+All Nvidian programming and demos goes there.
