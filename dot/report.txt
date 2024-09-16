@@ -1,0 +1,79 @@
+=============
+kernel = 1 
+Size GPU_dotprod CPU_dotprod CPU_time(ms) GPU_time(ms) TransferIn(ms) TransferOut(ms) Speedup_noTrf Speedup
+  2M    -1468.00    -1468.00     0.011196     0.000201       0.160256        0.000014         55.77    0.07
+  8M     1114.00     1114.00     0.045059     0.000761       0.160256        0.000015         59.19    0.28
+ 32M    -4309.00    -4309.00     0.180318     0.002935       0.160256        0.000015         61.43    1.10
+
+
+=============
+kernel = 2 
+Size GPU_dotprod CPU_dotprod CPU_time(ms) GPU_time(ms) TransferIn(ms) TransferOut(ms) Speedup_noTrf Speedup
+  2M    -1468.00    -1468.00     0.011136     0.000151       0.159802        0.000014         73.95    0.07
+  8M     1114.00     1114.00     0.044964     0.000569       0.159802        0.000015         79.08    0.28
+ 32M    -4309.00    -4309.00     0.180358     0.001978       0.159802        0.000015         91.16    1.11
+
+
+=============
+kernel = 3 
+Size GPU_dotprod CPU_dotprod CPU_time(ms) GPU_time(ms) TransferIn(ms) TransferOut(ms) Speedup_noTrf Speedup
+  2M    -1468.00    -1468.00     0.011147     0.000126       0.159831        0.000013         88.26    0.07
+  8M     1114.00     1114.00     0.045011     0.000470       0.159831        0.000015         95.87    0.28
+ 32M    -4309.00    -4309.00     0.180017     0.001839       0.159831        0.000015         97.87    1.11
+
+
+=============
+kernel = 4 
+Size GPU_dotprod CPU_dotprod CPU_time(ms) GPU_time(ms) TransferIn(ms) TransferOut(ms) Speedup_noTrf Speedup
+  2M    -1468.00    -1468.00     0.011200     0.000073       0.160396        0.000013        153.98    0.07
+  8M     1114.00     1114.00     0.045017     0.000256       0.160396        0.000014        175.87    0.28
+ 32M    -4309.00    -4309.00     0.180059     0.000989       0.160396        0.000014        182.09    1.12
+
+
+=============
+kernel = 5 
+Size GPU_dotprod CPU_dotprod CPU_time(ms) GPU_time(ms) TransferIn(ms) TransferOut(ms) Speedup_noTrf Speedup
+  2M    -1468.00    -1468.00     0.011253     0.000054       0.160025        0.000013        207.96    0.07
+  8M     1114.00     1114.00     0.045138     0.000183       0.160025        0.000013        247.11    0.28
+ 32M    -4309.00    -4309.00     0.180677     0.000694       0.160025        0.000014        260.45    1.12
+
+
+=============
+kernel = 6 
+Size GPU_dotprod CPU_dotprod CPU_time(ms) GPU_time(ms) TransferIn(ms) TransferOut(ms) Speedup_noTrf Speedup
+  2M    -1468.00    -1468.00     0.011256     0.000051       0.160066        0.000013        219.47    0.07
+  8M     1114.00     1114.00     0.045046     0.000176       0.160066        0.000013        256.24    0.28
+ 32M    -4309.00    -4309.00     0.180090     0.000671       0.160066        0.000015        268.31    1.12
+
+
+=============
+kernel = 7 
+Size GPU_dotprod CPU_dotprod CPU_time(ms) GPU_time(ms) TransferIn(ms) TransferOut(ms) Speedup_noTrf Speedup
+  2M    -1468.00    -1468.00     0.011235     0.000105       0.161777        0.000264        107.05    0.07
+  8M     1114.00     1114.00     0.045053     0.000166       0.161777        0.000014        271.95    0.28
+ 32M    -4309.00    -4309.00     0.180082     0.000641       0.161777        0.000204        281.05    1.11
+
+
+=============
+kernel = 8 
+Size GPU_dotprod CPU_dotprod CPU_time(ms) GPU_time(ms) TransferIn(ms) TransferOut(ms) Speedup_noTrf Speedup
+  2M    -1468.00    -1468.00     0.011236     0.000052       0.159353        0.000013        217.44    0.07
+  8M     1114.00     1114.00     0.045014     0.000174       0.159353        0.000014        258.07    0.28
+ 32M    -4309.00    -4309.00     0.179871     0.000668       0.159353        0.000016        269.42    1.12
+
+
+=============
+kernel = 9 
+Size GPU_dotprod CPU_dotprod CPU_time(ms) GPU_time(ms) TransferIn(ms) TransferOut(ms) Speedup_noTrf Speedup
+  2M    -1468.00    -1468.00     0.011244     0.000151       0.159137        0.000014         74.40    0.07
+  8M     1114.00     1114.00     0.045085     0.000588       0.159137        0.000014         76.71    0.28
+ 32M    -4309.00    -4309.00     0.180043     0.002337       0.159137        0.000015         77.04    1.11
+
+
+=============
+kernel = 10 
+Size GPU_dotprod CPU_dotprod CPU_time(ms) GPU_time(ms) TransferIn(ms) TransferOut(ms) Speedup_noTrf Speedup
+  2M    -1468.00    -1468.00     0.011213     0.000085       0.160054        0.000013        131.40    0.07
+  8M     1114.00     1114.00     0.044942     0.000331       0.160054        0.000014        135.85    0.28
+ 32M    -4309.00    -4309.00     0.179651     0.001278       0.160054        0.000014        140.57    1.11
+
